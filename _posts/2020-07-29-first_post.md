@@ -55,5 +55,3 @@ Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kuwait_skyline.jpg" alt="">
 
 Another way to post image is using Kramdown, check documentation on minimal-theme website.
-
-Here's
